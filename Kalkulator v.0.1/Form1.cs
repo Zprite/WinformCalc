@@ -68,6 +68,7 @@ namespace Kalkulator_v._0._1
             double squared = Math.Pow(tall_1, 2);
             display.Text = squared.ToString();
             input_history.Text = tall_1.ToString() + '²';
+            math_executed = true;
         }
         private void Btn_qube_Click(object sender, EventArgs e)
         {
@@ -75,6 +76,7 @@ namespace Kalkulator_v._0._1
             double squared = Math.Pow(tall_1, 3);
             display.Text = squared.ToString();
             input_history.Text = tall_1.ToString() + '³';
+            math_executed = true;
         }
         private void Btn_sqrt_Click(object sender, EventArgs e)
         {
@@ -82,6 +84,7 @@ namespace Kalkulator_v._0._1
             double sqrt = Math.Sqrt(tall_1);
             display.Text = sqrt.ToString();
             input_history.Text = "√" + tall_1;
+            math_executed = true;
         }
         private void Btn_pow_Click(object sender, EventArgs e)
         {
@@ -166,7 +169,7 @@ namespace Kalkulator_v._0._1
                 clear();
             }
             else if (display.Text.Length == 1) {
-                if (display.Text != "0")
+                if (display.Text != "0" && input_history.Text.Length > 0)
                     input_history.Text = input_history.Text.Remove(input_history.Text.Length - 1);
                 display.Text = "0";
             }
