@@ -58,9 +58,10 @@
             // num_input_1
             // 
             this.num_input_1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.num_input_1.Location = new System.Drawing.Point(32, 286);
+            this.num_input_1.Location = new System.Drawing.Point(24, 232);
+            this.num_input_1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.num_input_1.Name = "num_input_1";
-            this.num_input_1.Size = new System.Drawing.Size(67, 56);
+            this.num_input_1.Size = new System.Drawing.Size(50, 46);
             this.num_input_1.TabIndex = 15;
             this.num_input_1.Text = "1";
             this.num_input_1.UseVisualStyleBackColor = true;
@@ -70,9 +71,10 @@
             // num_input_2
             // 
             this.num_input_2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.num_input_2.Location = new System.Drawing.Point(105, 286);
+            this.num_input_2.Location = new System.Drawing.Point(79, 232);
+            this.num_input_2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.num_input_2.Name = "num_input_2";
-            this.num_input_2.Size = new System.Drawing.Size(67, 56);
+            this.num_input_2.Size = new System.Drawing.Size(50, 46);
             this.num_input_2.TabIndex = 16;
             this.num_input_2.Text = "2";
             this.num_input_2.UseVisualStyleBackColor = true;
@@ -82,9 +84,10 @@
             // num_input_3
             // 
             this.num_input_3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.num_input_3.Location = new System.Drawing.Point(178, 286);
+            this.num_input_3.Location = new System.Drawing.Point(134, 232);
+            this.num_input_3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.num_input_3.Name = "num_input_3";
-            this.num_input_3.Size = new System.Drawing.Size(67, 56);
+            this.num_input_3.Size = new System.Drawing.Size(50, 46);
             this.num_input_3.TabIndex = 17;
             this.num_input_3.Text = "3";
             this.num_input_3.UseVisualStyleBackColor = true;
@@ -94,9 +97,10 @@
             // num_input_6
             // 
             this.num_input_6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.num_input_6.Location = new System.Drawing.Point(178, 224);
+            this.num_input_6.Location = new System.Drawing.Point(134, 182);
+            this.num_input_6.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.num_input_6.Name = "num_input_6";
-            this.num_input_6.Size = new System.Drawing.Size(67, 56);
+            this.num_input_6.Size = new System.Drawing.Size(50, 46);
             this.num_input_6.TabIndex = 12;
             this.num_input_6.Text = "6";
             this.num_input_6.UseVisualStyleBackColor = true;
@@ -106,9 +110,10 @@
             // num_input_5
             // 
             this.num_input_5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.num_input_5.Location = new System.Drawing.Point(105, 224);
+            this.num_input_5.Location = new System.Drawing.Point(79, 182);
+            this.num_input_5.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.num_input_5.Name = "num_input_5";
-            this.num_input_5.Size = new System.Drawing.Size(67, 56);
+            this.num_input_5.Size = new System.Drawing.Size(50, 46);
             this.num_input_5.TabIndex = 11;
             this.num_input_5.Text = "5";
             this.num_input_5.UseVisualStyleBackColor = true;
@@ -118,9 +123,10 @@
             // num_input_4
             // 
             this.num_input_4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.num_input_4.Location = new System.Drawing.Point(32, 224);
+            this.num_input_4.Location = new System.Drawing.Point(24, 182);
+            this.num_input_4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.num_input_4.Name = "num_input_4";
-            this.num_input_4.Size = new System.Drawing.Size(67, 56);
+            this.num_input_4.Size = new System.Drawing.Size(50, 46);
             this.num_input_4.TabIndex = 10;
             this.num_input_4.Text = "4";
             this.num_input_4.UseVisualStyleBackColor = true;
@@ -130,9 +136,10 @@
             // num_input_9
             // 
             this.num_input_9.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.num_input_9.Location = new System.Drawing.Point(178, 162);
+            this.num_input_9.Location = new System.Drawing.Point(134, 132);
+            this.num_input_9.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.num_input_9.Name = "num_input_9";
-            this.num_input_9.Size = new System.Drawing.Size(67, 56);
+            this.num_input_9.Size = new System.Drawing.Size(50, 46);
             this.num_input_9.TabIndex = 7;
             this.num_input_9.Text = "9";
             this.num_input_9.UseVisualStyleBackColor = true;
@@ -142,9 +149,10 @@
             // num_input_8
             // 
             this.num_input_8.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.num_input_8.Location = new System.Drawing.Point(105, 162);
+            this.num_input_8.Location = new System.Drawing.Point(79, 132);
+            this.num_input_8.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.num_input_8.Name = "num_input_8";
-            this.num_input_8.Size = new System.Drawing.Size(67, 56);
+            this.num_input_8.Size = new System.Drawing.Size(50, 46);
             this.num_input_8.TabIndex = 6;
             this.num_input_8.Text = "8";
             this.num_input_8.UseVisualStyleBackColor = true;
@@ -154,9 +162,10 @@
             // num_input_7
             // 
             this.num_input_7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.num_input_7.Location = new System.Drawing.Point(32, 162);
+            this.num_input_7.Location = new System.Drawing.Point(24, 132);
+            this.num_input_7.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.num_input_7.Name = "num_input_7";
-            this.num_input_7.Size = new System.Drawing.Size(67, 56);
+            this.num_input_7.Size = new System.Drawing.Size(50, 46);
             this.num_input_7.TabIndex = 5;
             this.num_input_7.Text = "7";
             this.num_input_7.UseVisualStyleBackColor = true;
@@ -166,9 +175,10 @@
             // num_input_0
             // 
             this.num_input_0.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.num_input_0.Location = new System.Drawing.Point(105, 348);
+            this.num_input_0.Location = new System.Drawing.Point(79, 283);
+            this.num_input_0.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.num_input_0.Name = "num_input_0";
-            this.num_input_0.Size = new System.Drawing.Size(67, 56);
+            this.num_input_0.Size = new System.Drawing.Size(50, 46);
             this.num_input_0.TabIndex = 21;
             this.num_input_0.Text = "0";
             this.num_input_0.UseVisualStyleBackColor = true;
@@ -178,10 +188,11 @@
             // display
             // 
             this.display.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.display.Location = new System.Drawing.Point(32, 44);
+            this.display.Location = new System.Drawing.Point(24, 36);
+            this.display.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.display.Name = "display";
             this.display.ReadOnly = true;
-            this.display.Size = new System.Drawing.Size(355, 41);
+            this.display.Size = new System.Drawing.Size(267, 35);
             this.display.TabIndex = 24;
             this.display.TabStop = false;
             this.display.Text = "0";
@@ -193,9 +204,10 @@
             // btn_subtract
             // 
             this.btn_subtract.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_subtract.Location = new System.Drawing.Point(320, 286);
+            this.btn_subtract.Location = new System.Drawing.Point(240, 232);
+            this.btn_subtract.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btn_subtract.Name = "btn_subtract";
-            this.btn_subtract.Size = new System.Drawing.Size(67, 56);
+            this.btn_subtract.Size = new System.Drawing.Size(50, 46);
             this.btn_subtract.TabIndex = 19;
             this.btn_subtract.Text = "-";
             this.btn_subtract.UseVisualStyleBackColor = true;
@@ -205,9 +217,10 @@
             // btn_add
             // 
             this.btn_add.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_add.Location = new System.Drawing.Point(320, 345);
+            this.btn_add.Location = new System.Drawing.Point(240, 280);
+            this.btn_add.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btn_add.Name = "btn_add";
-            this.btn_add.Size = new System.Drawing.Size(67, 59);
+            this.btn_add.Size = new System.Drawing.Size(50, 48);
             this.btn_add.TabIndex = 23;
             this.btn_add.Text = "+";
             this.btn_add.UseVisualStyleBackColor = true;
@@ -217,9 +230,10 @@
             // btn_equals
             // 
             this.btn_equals.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_equals.Location = new System.Drawing.Point(251, 286);
+            this.btn_equals.Location = new System.Drawing.Point(188, 232);
+            this.btn_equals.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btn_equals.Name = "btn_equals";
-            this.btn_equals.Size = new System.Drawing.Size(63, 118);
+            this.btn_equals.Size = new System.Drawing.Size(47, 96);
             this.btn_equals.TabIndex = 18;
             this.btn_equals.Text = "=";
             this.btn_equals.UseVisualStyleBackColor = true;
@@ -229,9 +243,10 @@
             // clear_btn
             // 
             this.clear_btn.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.clear_btn.Location = new System.Drawing.Point(178, 100);
+            this.clear_btn.Location = new System.Drawing.Point(134, 81);
+            this.clear_btn.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.clear_btn.Name = "clear_btn";
-            this.clear_btn.Size = new System.Drawing.Size(67, 56);
+            this.clear_btn.Size = new System.Drawing.Size(50, 46);
             this.clear_btn.TabIndex = 3;
             this.clear_btn.Text = "C";
             this.clear_btn.UseVisualStyleBackColor = true;
@@ -241,9 +256,10 @@
             // btn_multiply
             // 
             this.btn_multiply.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_multiply.Location = new System.Drawing.Point(320, 224);
+            this.btn_multiply.Location = new System.Drawing.Point(240, 182);
+            this.btn_multiply.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btn_multiply.Name = "btn_multiply";
-            this.btn_multiply.Size = new System.Drawing.Size(67, 56);
+            this.btn_multiply.Size = new System.Drawing.Size(50, 46);
             this.btn_multiply.TabIndex = 14;
             this.btn_multiply.Text = "*";
             this.btn_multiply.UseVisualStyleBackColor = true;
@@ -253,9 +269,10 @@
             // btn_divide
             // 
             this.btn_divide.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_divide.Location = new System.Drawing.Point(320, 162);
+            this.btn_divide.Location = new System.Drawing.Point(240, 132);
+            this.btn_divide.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btn_divide.Name = "btn_divide";
-            this.btn_divide.Size = new System.Drawing.Size(67, 56);
+            this.btn_divide.Size = new System.Drawing.Size(50, 46);
             this.btn_divide.TabIndex = 9;
             this.btn_divide.Text = "/";
             this.btn_divide.UseVisualStyleBackColor = true;
@@ -265,9 +282,10 @@
             // comma_btn
             // 
             this.comma_btn.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.comma_btn.Location = new System.Drawing.Point(178, 348);
+            this.comma_btn.Location = new System.Drawing.Point(134, 283);
+            this.comma_btn.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.comma_btn.Name = "comma_btn";
-            this.comma_btn.Size = new System.Drawing.Size(67, 56);
+            this.comma_btn.Size = new System.Drawing.Size(50, 46);
             this.comma_btn.TabIndex = 22;
             this.comma_btn.Text = ".";
             this.comma_btn.UseVisualStyleBackColor = true;
@@ -280,10 +298,11 @@
             this.input_history.BackColor = System.Drawing.Color.Transparent;
             this.input_history.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.input_history.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.input_history.Location = new System.Drawing.Point(40, 24);
-            this.input_history.MaximumSize = new System.Drawing.Size(0, 256);
+            this.input_history.Location = new System.Drawing.Point(30, 20);
+            this.input_history.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.input_history.MaximumSize = new System.Drawing.Size(0, 208);
             this.input_history.Name = "input_history";
-            this.input_history.Size = new System.Drawing.Size(16, 17);
+            this.input_history.Size = new System.Drawing.Size(13, 13);
             this.input_history.TabIndex = 0;
             this.input_history.Text = "0";
             this.input_history.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -291,9 +310,10 @@
             // btn_square
             // 
             this.btn_square.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_square.Location = new System.Drawing.Point(32, 100);
+            this.btn_square.Location = new System.Drawing.Point(24, 81);
+            this.btn_square.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btn_square.Name = "btn_square";
-            this.btn_square.Size = new System.Drawing.Size(67, 56);
+            this.btn_square.Size = new System.Drawing.Size(50, 46);
             this.btn_square.TabIndex = 1;
             this.btn_square.Text = "x²";
             this.btn_square.UseVisualStyleBackColor = true;
@@ -303,9 +323,10 @@
             // btn_sqrt
             // 
             this.btn_sqrt.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_sqrt.Location = new System.Drawing.Point(251, 224);
+            this.btn_sqrt.Location = new System.Drawing.Point(188, 182);
+            this.btn_sqrt.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btn_sqrt.Name = "btn_sqrt";
-            this.btn_sqrt.Size = new System.Drawing.Size(63, 56);
+            this.btn_sqrt.Size = new System.Drawing.Size(47, 46);
             this.btn_sqrt.TabIndex = 13;
             this.btn_sqrt.Text = "√";
             this.btn_sqrt.UseVisualStyleBackColor = true;
@@ -315,9 +336,10 @@
             // btn_qube
             // 
             this.btn_qube.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_qube.Location = new System.Drawing.Point(105, 100);
+            this.btn_qube.Location = new System.Drawing.Point(79, 81);
+            this.btn_qube.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btn_qube.Name = "btn_qube";
-            this.btn_qube.Size = new System.Drawing.Size(67, 56);
+            this.btn_qube.Size = new System.Drawing.Size(50, 46);
             this.btn_qube.TabIndex = 2;
             this.btn_qube.Text = "x³";
             this.btn_qube.UseVisualStyleBackColor = true;
@@ -327,9 +349,10 @@
             // btn_pow
             // 
             this.btn_pow.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_pow.Location = new System.Drawing.Point(251, 162);
+            this.btn_pow.Location = new System.Drawing.Point(188, 132);
+            this.btn_pow.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btn_pow.Name = "btn_pow";
-            this.btn_pow.Size = new System.Drawing.Size(63, 56);
+            this.btn_pow.Size = new System.Drawing.Size(47, 46);
             this.btn_pow.TabIndex = 8;
             this.btn_pow.Text = "xʸ";
             this.btn_pow.UseVisualStyleBackColor = true;
@@ -339,9 +362,10 @@
             // backspace_btn
             // 
             this.backspace_btn.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.backspace_btn.Location = new System.Drawing.Point(251, 100);
+            this.backspace_btn.Location = new System.Drawing.Point(188, 81);
+            this.backspace_btn.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.backspace_btn.Name = "backspace_btn";
-            this.backspace_btn.Size = new System.Drawing.Size(136, 56);
+            this.backspace_btn.Size = new System.Drawing.Size(102, 46);
             this.backspace_btn.TabIndex = 4;
             this.backspace_btn.Text = "←";
             this.backspace_btn.UseVisualStyleBackColor = true;
@@ -350,9 +374,10 @@
             // 
             // change_sign
             // 
-            this.change_sign.Location = new System.Drawing.Point(32, 345);
+            this.change_sign.Location = new System.Drawing.Point(24, 284);
+            this.change_sign.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.change_sign.Name = "change_sign";
-            this.change_sign.Size = new System.Drawing.Size(67, 59);
+            this.change_sign.Size = new System.Drawing.Size(50, 45);
             this.change_sign.TabIndex = 20;
             this.change_sign.Text = "±";
             this.change_sign.Click += new System.EventHandler(this.Change_sign_Click);
@@ -360,9 +385,9 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(414, 421);
+            this.ClientSize = new System.Drawing.Size(310, 342);
             this.Controls.Add(this.change_sign);
             this.Controls.Add(this.backspace_btn);
             this.Controls.Add(this.btn_pow);
@@ -388,6 +413,7 @@
             this.Controls.Add(this.num_input_3);
             this.Controls.Add(this.num_input_2);
             this.Controls.Add(this.num_input_1);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form1";
             this.Text = "Form1";
             this.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.key_press);

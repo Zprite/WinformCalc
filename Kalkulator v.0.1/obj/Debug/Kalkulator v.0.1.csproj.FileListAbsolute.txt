@@ -18,3 +18,13 @@ C:\Users\Marcus\source\repos\Kalkulator_v.0.1\Kalkulator v.0.1\obj\Debug\Kalkula
 C:\Users\Marcus\source\repos\Kalkulator_v.0.1\Kalkulator v.0.1\obj\Debug\Kalkulator v.0.1.csproj.CoreCompileInputs.cache
 C:\Users\Marcus\source\repos\Kalkulator_v.0.1\Kalkulator v.0.1\obj\Debug\Kalkulator v.0.1.exe
 C:\Users\Marcus\source\repos\Kalkulator_v.0.1\Kalkulator v.0.1\obj\Debug\Kalkulator v.0.1.pdb
+C:\Users\MC\Documents\Github\winformcalc\Kalkulator v.0.1\bin\Debug\Kalkulator v.0.1.exe.config
+C:\Users\MC\Documents\Github\winformcalc\Kalkulator v.0.1\bin\Debug\Kalkulator v.0.1.exe
+C:\Users\MC\Documents\Github\winformcalc\Kalkulator v.0.1\bin\Debug\Kalkulator v.0.1.pdb
+C:\Users\MC\Documents\Github\winformcalc\Kalkulator v.0.1\obj\Debug\Kalkulator v.0.1.csprojAssemblyReference.cache
+C:\Users\MC\Documents\Github\winformcalc\Kalkulator v.0.1\obj\Debug\Kalkulator_v._0._1.Form1.resources
+C:\Users\MC\Documents\Github\winformcalc\Kalkulator v.0.1\obj\Debug\Kalkulator_v._0._1.Properties.Resources.resources
+C:\Users\MC\Documents\Github\winformcalc\Kalkulator v.0.1\obj\Debug\Kalkulator v.0.1.csproj.GenerateResource.cache
+C:\Users\MC\Documents\Github\winformcalc\Kalkulator v.0.1\obj\Debug\Kalkulator v.0.1.csproj.CoreCompileInputs.cache
+C:\Users\MC\Documents\Github\winformcalc\Kalkulator v.0.1\obj\Debug\Kalkulator v.0.1.exe
+C:\Users\MC\Documents\Github\winformcalc\Kalkulator v.0.1\obj\Debug\Kalkulator v.0.1.pdb

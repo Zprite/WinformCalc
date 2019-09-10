@@ -56,6 +56,7 @@ namespace Kalkulator_v._0._1
         }
         private void operator_click(object sender, EventArgs e) 
         {
+            fixEmptyComma(); 
             tall_1 = Double.Parse(display.Text);
             Button op = (Button)sender;
             operator_1 = op.Text[0];
@@ -64,6 +65,7 @@ namespace Kalkulator_v._0._1
         }
         private void Btn_square_Click(object sender, EventArgs e)
         {
+            fixEmptyComma();
             tall_1 = Double.Parse(display.Text);
             double squared = Math.Pow(tall_1, 2);
             display.Text = squared.ToString();
@@ -72,6 +74,7 @@ namespace Kalkulator_v._0._1
         }
         private void Btn_qube_Click(object sender, EventArgs e)
         {
+            fixEmptyComma();
             tall_1 = Double.Parse(display.Text);
             double squared = Math.Pow(tall_1, 3);
             display.Text = squared.ToString();
@@ -80,6 +83,7 @@ namespace Kalkulator_v._0._1
         }
         private void Btn_sqrt_Click(object sender, EventArgs e)
         {
+            fixEmptyComma();
             tall_1 = Double.Parse(display.Text);
             double sqrt = Math.Sqrt(tall_1);
             display.Text = sqrt.ToString();
@@ -88,6 +92,7 @@ namespace Kalkulator_v._0._1
         }
         private void Btn_pow_Click(object sender, EventArgs e)
         {
+            fixEmptyComma();
             tall_1 = Double.Parse(display.Text);
             operator_1 = '^';
             input_history.Text = tall_1.ToString() + '^';
@@ -95,6 +100,7 @@ namespace Kalkulator_v._0._1
         }
         private void Btn_equals_Click(object sender, EventArgs e)
         {
+            fixEmptyComma();
             execute_math();
         }
         private void Change_sign_Click(object sender, EventArgs e)
@@ -180,7 +186,6 @@ namespace Kalkulator_v._0._1
                 display.Text = display.Text.Remove(display.Text.Length - 1);
 
             }
-
         }
         private void add_comma()
         {
@@ -191,6 +196,11 @@ namespace Kalkulator_v._0._1
                     input_history.Text += '.';
             }
         }
+        private void fixEmptyComma() // Sletter komma hvis det er siste tegnet i display (kan føre til masse bugs)
+        {
+            if (display.Text[display.Text.Length - 1] == '.' || display.Text[display.Text.Length - 1] == ',')
+                display.Text = display.Text.Remove(display.Text.Length - 1);
+        }
         private void clear()
         {
             tall_1 = 0;
@@ -200,6 +210,7 @@ namespace Kalkulator_v._0._1
         }
         private void set_operator(char op) // Setter opperator og display når man trykker inn operator på tastaturet. 
         {
+            fixEmptyComma();
             math_executed = false;
             tall_1 = Double.Parse(display.Text);
             input_history.Text = display.Text+ op;
@@ -208,6 +219,7 @@ namespace Kalkulator_v._0._1
         }
         private void execute_math() 
         {
+            fixEmptyComma();
             tall_2 = Double.Parse(display.Text);
             switch (operator_1)
             {
